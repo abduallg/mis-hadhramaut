@@ -1,0 +1,6 @@
+{
+  "name": "منصة مندوب الدفعة | Batch Delegate",
+  "description": "نظام متكامل لمندوب وطلاب الدفعة الجامعية: إدارة المحاضرات والعد المباشر، سجل حضور وغياب الطلاب، وجدول مواعيد الاختبارات والتنبيهات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
